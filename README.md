@@ -14,4 +14,4 @@ And here is a comparison between **Growth Mindset** and *Fixed Mindset*
 
 Mohammad Ashour
 
-[Portfolio Page](https://github.com/moh-ash96)
+[My Github Page](https://github.com/moh-ash96)
