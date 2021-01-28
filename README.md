@@ -9,3 +9,4 @@ I am studying software development at LTUC because of my passion in dealing with
 |Lab02a     |[Growth Mindset](Lab02a.md)|
 |Read03a    |[HTML](Read03a.md)|
 |Read04     |[JavaScript](Read04.md)|
+|Read05     |[Loops](Read05.md)
