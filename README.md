@@ -10,3 +10,4 @@ I am studying software development at LTUC because of my passion in dealing with
 |Read03a    |[HTML](Read03a.md)|
 |Read04     |[JavaScript](Read04.md)|
 |Read05     |[Loops](Read05.md)
+|Read06     |[CSS](Read06.md)|
