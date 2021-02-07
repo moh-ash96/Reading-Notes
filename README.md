@@ -22,7 +22,7 @@ I put in this repo what I learn at my coding courses, so at the end of code 401 
 |Read       |Link       |
 |-----------|-----------|
 |Read01     |[Introductory HTML and JavaScript](201/Read01.md)|
-|Read02     |[Read02](201/read02.md)|
+|Read02     |[Basics of HTML, CSS & JS](201/read02.md)|
 |Read03     |[Read03](201/read03.md)|
 |Read04     |[Read04](201/read04.md)|
 |Read05     |[Read05](201/read05.md)|
