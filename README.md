@@ -23,7 +23,7 @@ I put in this repo what I learn at my coding courses, so at the end of code 401 
 |-----------|-----------|
 |Read01     |[Introductory HTML and JavaScript](201/Read01.md)|
 |Read02     |[Basics of HTML, CSS & JS](201/Read02.md)|
-|Read03     |[Read03](201/Read03.md)|
+|Read03     |[HTML Lists, Control Flow with JS, and the CSS Box Model](201/Read03.md)|
 |Read04     |[Read04](201/Read04.md)|
 |Read05     |[Read05](201/Read05.md)|
 |Read06     |[Read06](201/Read06.md)|
