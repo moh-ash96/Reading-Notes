@@ -15,14 +15,14 @@ First we should figure where to put the image in the code, we have three options
 We can change the width and the height of the image by adding, height = ‘ ’ and width = ‘ ‘.
 ### Creating an Image
 We should follow three rules:
-1. Save the image in the correct format.   
+* Save the image in the correct format.   
   Image formats can be:
    * *JPEG*, used with the images that have so many colors.
    * *PNG*, used in images that have an area filled with the exact same color.
    * *GIF*, it is an animated type of images and usually used when the page loads, and some other places.
-2. Save the image at the right size.
+* Save the image at the right size.
 Images we download should have the right height and width that we need to put in our website, because a lot of issues might come if we chose to resize them, such as, lower quality, and inappropriate shape of the photo content.
-3. Use the correct resolution.
+* Use the correct resolution.
 *JEPG*, *PNG*, and *GIF* images use **Bitmap** format, the best resolution that browsers display is 72 pixels per inch.
 There is another type for photos called **Vector images** these images are not composed of pixels, they are composed of dots on a grid and then lines will be drawn between these dots and the spaces are filled with colors, these images are usually used for logos and increasing their size won’t change their resolution.
 ## Colors
