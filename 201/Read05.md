@@ -16,10 +16,10 @@ We can change the width and the height of the image by adding, height = ‘ ’ 
 ### Creating an Image
 We should follow three rules:
 1. Save the image in the correct format.   
-Image formats can be:
- * *JPEG*, used with the images that have so many colors.
- * *PNG*, used in images that have an area filled with the exact same color.
- * *GIF*, it is an animated type of images and usually used when the page loads, and some other places.
+  Image formats can be:
+   * *JPEG*, used with the images that have so many colors.
+   * *PNG*, used in images that have an area filled with the exact same color.
+   * *GIF*, it is an animated type of images and usually used when the page loads, and some other places.
 2. Save the image at the right size.
 Images we download should have the right height and width that we need to put in our website, because a lot of issues might come if we chose to resize them, such as, lower quality, and inappropriate shape of the photo content.
 3. Use the correct resolution.
