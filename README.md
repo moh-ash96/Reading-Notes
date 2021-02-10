@@ -25,7 +25,7 @@ I put in this repo what I learn at my coding courses, so at the end of code 401 
 |Read02     |[Basics of HTML, CSS & JS](201/Read02.md)|
 |Read03     |[HTML Lists, Control Flow with JS, and the CSS Box Model](201/Read03.md)|
 |Read04     |[HTML Links, JS Functions, and Intro to CSS Layout](201/Read04.md)|
-|Read05     |[Read05](201/Read05.md)|
+|Read05     |[Images, Color, Text](201/Read05.md)|
 |Read06     |[Read06](201/Read06.md)|
 |Read07     |[Read07](201/Read07.md)|
 |Read08     |[Read08](201/Read08.md)|
