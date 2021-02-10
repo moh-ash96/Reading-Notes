@@ -8,18 +8,18 @@ To add an image to our website we need the following elements:
 * *Alt* attribute, it contains a description about the image and will appear when that image is not available.
 * *Title* attribute, it adds title to the image that usually appears when the user hovers on it.
 ### Image dimensions and position:
-First t we should figure where to put the image in the code, we have three options:
+First we should figure where to put the image in the code, we have three options:
 1. Before the paragraph, here the paragraph will start a new line after the image.
 2. Inside the start of the paragraph, here the first row of the text aligns with the bottom of the image.
 3. In the middle of the paragraph, the image comes between the words of the paragraph.
 We can change the width and the height of the image by adding, height = ‘ ’ and width = ‘ ‘.
 ### Creating an Image
 We should follow three rules:
-1. Save the image in the correct format.
- #### image formats can be:
+1. Save the image in the correct format.   
+Image formats can be:
  * *JPEG*, used with the images that have so many colors.
  * *PNG*, used in images that have an area filled with the exact same color.
- * **GIF*, it is an animated type of images and usually used when the page loads, and some other places.
+ * *GIF*, it is an animated type of images and usually used when the page loads, and some other places.
 2. Save the image at the right size.
 Images we download should have the right height and width that we need to put in our website, because a lot of issues might come if we chose to resize them, such as, lower quality, and inappropriate shape of the photo content.
 3. Use the correct resolution.
@@ -49,7 +49,7 @@ CSS allows us to modify text to have the best appearance of our webpage and the 
 * Font-weight, which is bold or normal.
 * Font-style, styles are, normal, italic, oblique.
 * Text-transform, for uppercase and lowercase transformation.
-* Text-decoration, underline, line-through, overline, and blink ** animates the text**.
+* Text-decoration, underline, line-through, overline, and blink **animates the text**.
 * Line-height, which is called leading, sets the vertical spaces between lines.
 * Letter-spacing, sets the spaces between letter in the words.
 * Word-spacing, sets spaces between words in the text.
