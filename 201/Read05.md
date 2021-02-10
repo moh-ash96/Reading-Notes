@@ -44,18 +44,18 @@ In webpages, especially the ones with a lot of text, *contrast* helps readers to
 
 ## Text
 CSS allows us to modify text to have the best appearance of our webpage and the modification is done by:
-•	Font-size, can be in pixels, ems, or percentage.
-•	Font-family, that specifies the family of the font.
-•	Font-weight, which is bold or normal.
-•	Font-style, styles are, normal, italic, oblique.
-•	Text-transform, for uppercase and lowercase transformation.
-•	Text-decoration, underline, line-through, overline, and blink ** animates the text**.
-•	Line-height, which is called leading, sets the vertical spaces between lines.
-•	Letter-spacing, sets the spaces between letter in the words.
-•	Word-spacing, sets spaces between words in the text.
-•	Text-align, to align text to the left, right, center, or justify.
-•	Text-shadow, add shadow behind text.
-•	Link, to style the links that are not visited.
-•	Visited, to style the links that was clicked.
-•	Hover, what happens when the user hovers over the text.
+* Font-size, can be in pixels, ems, or percentage.
+* Font-family, that specifies the family of the font.
+* Font-weight, which is bold or normal.
+* Font-style, styles are, normal, italic, oblique.
+* Text-transform, for uppercase and lowercase transformation.
+* Text-decoration, underline, line-through, overline, and blink ** animates the text**.
+* Line-height, which is called leading, sets the vertical spaces between lines.
+* Letter-spacing, sets the spaces between letter in the words.
+* Word-spacing, sets spaces between words in the text.
+* Text-align, to align text to the left, right, center, or justify.
+* Text-shadow, add shadow behind text.
+* Link, to style the links that are not visited.
+* Visited, to style the links that was clicked.
+* Hover, what happens when the user hovers over the text.
 
