@@ -28,7 +28,7 @@ I put in this repo what I learn at my coding courses, so at the end of code 401 
 |Read05     |[Images, Color, Text](201/Read05.md)|
 |Read06     |[Objects, and the DOM](201/Read06.md)|
 |Read07     |[Object-Oriented Programming, HTML Tables](201/Read07.md)|
-|Read08     |[Read08](201/Read08.md)|
+|Read08     |[Layout](201/Read08.md)|
 |Read09     |[Read09](201/Read09.md)|
 |Read10     |[Read10](201/Read10.md)|
 |Read11     |[Read11](201/Read11.md)|
