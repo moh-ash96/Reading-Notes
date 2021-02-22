@@ -33,6 +33,6 @@ I put in this repo what I learn at my coding courses, so at the end of code 401 
 |Read10     |[Debugging](201/Read10.md)|
 |Read11     |[Audio, Video, Images](201/Read11.md)|
 |Read12     |[Canvas](201/Read12.md)|
-|Read13     |[Read13](201/Read13.md)|
+|Read13     |[Local storage](201/Read13.md)|
 |Read14     |[Read14](201/Read14.md)|
 |Read15     |[Read15](201/Read15.md)|
