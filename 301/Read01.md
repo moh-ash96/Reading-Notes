@@ -1,4 +1,4 @@
-# RESPONSIVE WEB DESIGN and FLOATS
+# Responsive Web Design And Floats
 
 ## Responsive Web Design
 
@@ -64,10 +64,11 @@ View port is used to assist the view of the website using the devices *size*, *s
 ### 3. Flexible Media:
 When using viewport to change the size of elements, some media types don’t follow. Images, videos, and other media types need to be scalable, changing their size as the size of the viewport changes. So we can set the max-width: 100% and this will fix the problem.
 But some types of media such as the ones embedded inside iframe the max-width property doesn’t work, they can become responsive by doing like the following:
+
 ```
 HTML
 <figure>
-  <iframe src="https://www.youtube.com/embed/4Fqg43ozz7A"></iframe>
+  <iframe src="videoLink"></iframe>
 </figure>
 ```
 ```              
@@ -87,9 +88,11 @@ iframe {
 }
 ```
 While the padding is calculating using the aspect ratio which is here 16:9 and the formula is 
+
 ```
 9 / 16 * 100% = 56.25% 
 ```
+
 ## Floats
 Floats are used to wrap text with a specific element the way you want; we can use either:
 * float: right; to put the element on the right and the text on the left.
@@ -122,6 +125,7 @@ It uses *CSS* pseudo selector *(:after)* to clear floats. Rather than setting th
    clear: both;
 }
 ```
+
 ### Problems with floats
 * **Pushdown** is a symptom of an element inside a floated item being wider than the float itself (typically an image). Most browsers will render the image outside the float, but not have the part sticking out affect other layout. IE will expand the float to contain the image, often drastically affecting layout, *Quick fix*: Make sure you don’t have any images that do this, use **overflow: hidden** to cut off excess.
 * **Double Margin Bug** – Another thing to remember when dealing with IE 6 is that if you apply a margin in the same direction as the float, it will double the margin. *Quick fix*: set display: inline on the float, and don’t worry it will remain a block-level element.
