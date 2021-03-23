@@ -40,6 +40,7 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |-----------|--------------|
 |Read01     |[Responsive Web Design And Floats](301/Read01.md)|
 |Read02     |[Pair Programming and jQuery](301/Read02.md)|
+|Read03     |[Javascript Templating](301/Read03.md)|
 
 
 ## *Code 401* - Advanced Software Development
