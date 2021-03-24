@@ -1,4 +1,4 @@
-# Javascript Templating
+# Javascript Templating and Flexbox
 *Javascript templating* is used to render client-side view templates with Javascript by using a **JSON** data source, and the template is **HTML** markup, with added templating tags that will either insert variables or run programming logic, the template engine then replaces variables and instances declared in a template file with actual values at runtime, and convert the template into an **HTML** file sent to the client.
 ## Mustache
 It a *logic-less* template syntax, that is only made from tags and these tags are either replaced by a *value*, *series of values*, or some are not replaced.
