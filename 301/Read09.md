@@ -1,30 +1,28 @@
-# Call stack & Error Messages
-## Call Stack
-Call stack is a mechanism for the interpreter to keep track for all the functions that that are being run and and what functions are being called from inside a function, it runs as follows:
-* When the interpreter goes across a function, it adds that function to the call stack then starts carrying it out.
-* Any function called inside this function is added to the stack and run where it's call is reached.
-* When the current function is finished, the interpreter takes it off the stack and resumes execution where it left off in the last code listing.
-* If the stack takes up more space than it had assigned to it, it results in a "stack overflow" error.
-Call stack follows **LIFO** principle *Last in* is *First out* which means when the interpreter adds a function to the stack, it adds it to the top the then the functions are processed from the top to the button, and in the stack, the parameters are added to the call stack, and form a *stack frame*; which is a temporary memory location that will be cleared when the function returns.
-### Stack overflow 
-Stack overflow happens when a recursive function (a function that calls itself) runs without exit point; here the browser will keep calling it until the stack limit is reached, then it will throw a stack overflow error, as the following example:
+# Refactoring Functions
 
-```
-function callMyself(){
-    callMyself();
+Refactorin functions, means taking a function and modifying it to be more useful, more readable, and with less lines written.
+## Pure functions:
+ It is the function that returns the same result if given the same arguments, and doesn't cause any abservable side effects.
+ ### What makes a function as impure:
+ * **Reading externale files**, because the files contents can e changed as the following example:
+ ```
+ const charactersCounter = (text) => `Character count: ${text.length}`;
+
+function analyzeFile(filename) {
+  let fileContent = open(filename);
+  return charactersCounter(fileContent);
 }
-callMyself();
 ```
-the result will be :
+* **Random number generation**
+* **Modifyong a global Object or a parameter passed by referance**
 
-![](https://i.ibb.co/0ZX83ck/stack-overflow.png)
-
-## Error Messages
-### Types of errors:
-* Reference error, this error comes when a variable is used but not declared, or is declared after the use when declared by *const* and *let*.
-* Syntax error, when you have something that cannot be parsed in terms of syntax, such as when trying to JSON.parse, invalid object.
-* Range errors, when trying to manipulate object with some kind of length and give it invalid length.
-* Type errors, when the types you are trying to access or use are incompatible.
-    
-
+### Pure function benefits
+* **Immutability**, which is unchanging over time or unable to be changed.
+* **Referential transparency**, Giving the same result for the same input.
+* **Functions as firs class entities**, When the funvtion is pure, we can use it as a variable and we can cridict what the outcome would be, so we can call it in another func
+### Examples of pure functions
+* **Higher-order functions**, It is a function that takes one or more functions as arguments, or returns a function as a result.
+* **Filter**, it expects *true* or *false* values to determine if the value should be included in the result collection.
+* **Map**, it transformes a collection by applying a function to all of its elements and building a new collection from the returned values.
+* **Reduce**, it recives a collection and returns a value created by combining the items.
 
