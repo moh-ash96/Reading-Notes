@@ -51,7 +51,7 @@ app.get('/', function(req, res)=>{
     <% for(let person of people) { %>
         <% if(person.name === 'dave') { %>
         <li>This is definitely <%= person.name%>!!!</li>
-        <% } else {%>
+        <% } else { %>
         <li>This is definitely not dave!!! This is <%= person.name%></li>
         <% } %>
     <% } %>
