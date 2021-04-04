@@ -1,7 +1,7 @@
 # EJS
 It is a templating language that allows us to generate HTML markup with plain JavScript.
 ## Get started
-* We start with configuring the Node js environment using the comman
+* We start with configuring the Node js environment using the command
 ```
 npm init
 ```
@@ -48,8 +48,8 @@ app.get('/', function(req, res)=>{
 #### **At index.ejs**
 ```
 <ul>
-    <% for(let person of people) {%>
-        <% if(person.name === 'dave') {%>
+    <% for(let person of people) { %>
+        <% if(person.name === 'dave') { %>
         <li>This is definitely <%= person.name%>!!!</li>
         <% } else {%>
         <li>This is definitely not dave!!! This is <%= person.name%></li>
