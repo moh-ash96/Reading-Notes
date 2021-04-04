@@ -18,7 +18,7 @@ app.set('view engine', 'ejs');
 ```
 * then we add 
 ```
-app.get('/', (req, res)=>{
+app.get('/', function (req, res)=>{
     render ('index', {
         we add the variables here (they can be string, array, object or anything)
     })
@@ -33,3 +33,30 @@ and
 <%= if we want to evaluate the content><%>
 ```
 in the ejs we can loop over an object using **for loop** to render its content and also we can use **if statement** to specify what exactly we want.
+### for example :
+#### **At server.js**
+```
+app.get('/', function(req, res)=>{
+    res.render('index',{
+        people:[
+            {name:'dave'}
+            {name:'Jerry'}
+        ]
+    })
+})
+```
+#### **At index.ejs**
+```
+<ul>
+    <% for(let person of people) {%>
+        <% if(person.name === 'dave') {%>
+        <li>This is definitely <%= person.name%>!!!</li>
+        <% } else {%>
+        <li>This is definitely not dave!!! This is <%= person.name%></li>
+        <% } %>
+    <% } %>
+</ul>
+```
+#### **At the browser we will see:**
+* This is definitely dave!!!
+* This is definitely not dave!!! This is jerry
