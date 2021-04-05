@@ -49,6 +49,7 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read09     |[Refactoring Functions](301/Read09.md)|
 |Read10     |[Call Stack](301/Read10.md)|
 |Read11     |[EJS](301/Read11.md)|
+|Read12     |[Partials](301/Read12.md)|
 
 
 ## *Code 401* - Advanced Software Development
