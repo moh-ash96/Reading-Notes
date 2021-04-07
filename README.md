@@ -51,6 +51,7 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read11     |[EJS](301/Read11.md)|
 |Read12     |[Partials](301/Read12.md)|
 |Read13     |[Sending Form Data](301/Read13.md)|
+|Read14     |[Normalization](301/Read14.md)|
 
 
 ## *Code 401* - Advanced Software Development
