@@ -54,5 +54,8 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read14     |[Normalization](301/Read14.md)|
 |Read15     |[Diversity & Inclusion in the Tech Industry](301/Read15.md)|
 
-
 ## *Code 401* - Advanced Software Development
+
+|Read       |Link          |
+|-----------|--------------|
+|Read01     |[Class01](401/Read01)|
