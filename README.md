@@ -2,7 +2,7 @@
 
 My name is **Mohammad Ashour**, I am a pharmacist, I graduated from Philadelphia university in *2020*.
 I am studying software development at ***LTUC*** because of my passion in dealing with computer and coding.
-I put in this repo what I learn at my coding courses, so at the end of code *401* you will find here everything you need in order to be a professional software developer. 
+I put in this repo what I learn at my coding courses, so at the end of code *401* you will find here everything you need in order to be a professional software developer.
 
 ## *Code 102* - Intro to Software Development
 
@@ -31,7 +31,7 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read11     |[Audio, Video, Images](201/Read11.md)|
 |Read12     |[Canvas](201/Read12.md)|
 |Read13     |[Local storage](201/Read13.md)|
-|Read14     |[CSS Transforms, Transitions, and Animations ](201/Read14.md)|
+|Read14     |[CSS Transforms, Transitions, and Animations](201/Read14.md)|
 |Read15     |[What Google Learned About Teams](201/Read15.md)|
 
 ## *Code 301* - Intermediate Software Development
@@ -59,3 +59,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read       |Link          |
 |-----------|--------------|
 |Read01     |[Class01](401/Read01)|
+|Read02     |[Testing and Modules](401/Read02)|
