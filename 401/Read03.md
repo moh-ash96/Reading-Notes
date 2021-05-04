@@ -67,7 +67,7 @@ if x > 5:
 
 and the output will be the following:
 
-```Python Traceback
+```Python
 Traceback (most recent call last):
   File "<input>", line 4, in <module>
 Exception: x should not exceed 5. The value of x was: 10
