@@ -63,3 +63,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read03     |[FileIO & Exceptions](401/Read03.md)|
 |Read04     |[Classes, Objects & Pytest](401/Read04.md)|
 |Read05     |[Linked lists](401/Read05.md)|
+|Read06     |[Game of Greed](401/Read06.md)|
