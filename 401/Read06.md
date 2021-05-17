@@ -1,4 +1,4 @@
-# Game of Greed
+# Game of Greed 1
 
 ## Random module
 
