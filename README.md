@@ -65,3 +65,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read05     |[Linked lists](401/Read05.md)|
 |Read06     |[Game of Greed 1](401/Read06.md)|
 |Read07     |[Game of Greed 2](401/Read07.md)|
+|Read08     |[List Comprehensions](401/Read08.md)|
