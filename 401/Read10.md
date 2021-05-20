@@ -157,7 +157,7 @@ This means that the last item in the queue will be the last item out of the queu
 
 ![3](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/images/Dequeue3.PNG)
 
-##### pseudocode
+##### pseudo-code
 
 ```shell
 ALGORITHM dequeue()
@@ -174,7 +174,7 @@ ALGORITHM dequeue()
 
 #### Peek O(1)
 
-##### pseudocode
+##### pseudo-code
 
 ```shell
 ![](ALGORITHM peek()
@@ -185,9 +185,9 @@ ALGORITHM dequeue()
    return front.value)
 ```
 
-#### IsEmpty
+#### IsEmpty O(1)
 
-##### pseudocode
+##### pseudo-code
 
 ```shell
 ALGORITHM isEmpty()
