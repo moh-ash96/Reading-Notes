@@ -67,3 +67,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read07     |[Game of Greed 2](401/Read07.md)|
 |Read08     |[List Comprehensions](401/Read08.md)|
 |Read09     |[Dunder Methods](401/Read09.md)|
+|Read10     |[Stacks and Queues](401/Read10.md)|
