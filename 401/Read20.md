@@ -139,7 +139,6 @@ def homepage(request):
 ```
 
 ```html
-<!-- {% load i18n %} <== It should not be commented, but it is not recognized -->
 <html>
     <head>
         <title>{% trans 'Homepage - Hall of Fame' %}</title>
