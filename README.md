@@ -77,3 +77,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read17     |[Web Scraping](401/Read17)|
 |Read18     |[Cryptography](401/Read18)|
 |Read19     |[Regular Expressions](401/Read19)|
+|Read20     |[Intro to Django](401/Read20)|
