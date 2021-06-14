@@ -79,3 +79,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read19     |[Regular Expressions](401/Read19)|
 |Read20     |[Intro to Django](401/Read20)|
 |Read21     |[Django Models](401/Read21)|
+|Read22     |[Django Forms](401/Read22)|
