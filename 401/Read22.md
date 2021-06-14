@@ -122,4 +122,4 @@ For forms that use a POST request to submit information to the server, the most 
 
 ### Templating
 
-The last step is templating in an html file, and it is same to the previous labs, as it uses ![liquid_tag](/assets/liquid.png) and we add the form and input tags inside this file.
+The last step is templating in an html file, and it is same to the previous labs, as it uses ![liquid_tag](https://i.ibb.co/dGzssS1/liquid.png) and we add the form and input tags inside this file.
