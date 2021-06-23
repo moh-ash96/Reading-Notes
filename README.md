@@ -86,3 +86,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read26     |[Permissions](401/Read26)|
 |Read27     |[JSON Web Token](401/Read27)|
 |Read28     |[API Deployment](401/Read28)|
+|Read29     |[Graphs](401/Read29)|
