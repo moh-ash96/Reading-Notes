@@ -92,3 +92,4 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read32     |[React II](401/Read32)|
 |Read33     |[NEXT.JS](401/Read33)|
 |Read34     |[React IIII](401/Read34)|
+|Read35     |[Pythonisms](401/Read35)|
