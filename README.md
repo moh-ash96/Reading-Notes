@@ -94,3 +94,9 @@ I put in this repo what I learn at my coding courses, so at the end of code *401
 |Read34     |[React IIII](401/Read34)|
 |Read35     |[Pythonisms](401/Read35)|
 |Read36     |[Ethics in Tech](401/Read36)|
+
+## *Self Learn* - Java
+
+|Read       |link|
+|-----------|-----------|
+|Read01    |[Java Intro](Java/Read01.md)|
